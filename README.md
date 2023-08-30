@@ -1,16 +1,25 @@
-# Regresión Logística en Python
+# Portafolio de implementacion
 
-Este proyecto proporciona una implementación simple de regresión logística en Python sin depender de bibliotecas externas como numpy o scikit-learn.
+Esta carpeta contiene 2 proyectos de implementacion de modelos de machine learning y deep learning.
 
-## Descripción
+## Proyectos
+
+### 1. Implementacion de un modelo de regresion logisitica multiple sin la utilizacion de un framework de machine learning
+Este proyecto corresponde a la carpeta `SinFramework`.
 
 La regresión logística es un método estadístico para modelar relaciones entre una variable dependiente binaria y una o más variables independientes. Este código es específico para la regresión logística binaria, lo que significa que se predice entre dos clases posibles.
 
-## Funcionamiento
+#### Archivos en esta Carpeta
 
-El código se compone de varias funciones:
+- `iris.csv`: Conjunto de datos iris.
+- `ML_sin_framework.ipynb`: Notebook con la implementacion del modelo de regresion logistica multiple sin la utilizacion de un framework de machine learning.
 
-- `sigmoide(z)`: Calcula la función sigmoide, que convierte un número real en un valor entre 0 y 1.
-- `calcular_costo(X, y, theta)`: Calcula el costo de los parámetros actuales `theta` usando la función de costo logarítmico.
-- `entrenar_regresion_logistica(X, y, alpha=0.01, num_iteraciones=1000)`: Entrena el modelo de regresión logística utilizando el algoritmo de descenso del gradiente.
-- `predecir(X, theta)`: Usa el modelo entrenado (los parámetros `theta`) para predecir las clases de nuevos ejemplos.
+### 2. Implementacion de un modelo de clasificacion de seguros utilizando el framework de deep learning pytorch
+Este proyecto corresponde a la carpeta `ConFramework`.
+
+En este proyecto se hacen 2 implementaciones de redes neuronales utilizando el framework de deep learning pytorch, una para la regresion de los costos de los seguros y despues otra para clasificar si el costo es bajo, medio o alto.
+
+#### Archivos en esta Carpeta
+
+- `insurance.csv`: Conjunto de datos que contiene detalles de los individuos asegurados y los cargos que incurren.
+- `model.ipynb`: Código que contiene ambas redes neuronales, la de regresión que predice los cargos exactos del seguro y la de clasificación que categoriza los cargos del seguro en bajo, medio o alto.
