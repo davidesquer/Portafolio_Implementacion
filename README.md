@@ -1,6 +1,6 @@
 # Portafolio de implementacion
 
-Esta carpeta contiene 2 proyectos de implementacion de modelos de machine learning y deep learning.
+Esta carpeta contiene 2 proyectos de implementacion de modelos de machine learning y deep learning, ademas de estos 2 se le agrego un nuevo proyecto de construccion de un modelo estadistico base.
 
 ## Proyectos
 
@@ -23,3 +23,11 @@ En este proyecto se hacen 2 implementaciones de redes neuronales utilizando el f
 
 - `insurance.csv`: Conjunto de datos que contiene detalles de los individuos asegurados y los cargos que incurren.
 - `model.ipynb`: Código que contiene ambas redes neuronales, la de regresión que predice los cargos exactos del seguro y la de clasificación que categoriza los cargos del seguro en bajo, medio o alto.
+
+### 3. Implementacion de un modelo estadistico base.
+Este proyecto corresponde a la carpeta `EstadisticoBase`.
+
+#### Archivos en esta Carpeta
+
+- `autos_prepared.csv`: Conjunto de datos que contiene detalles de los autos y sus precios, ya preparado para el modelo estadistico.
+- `modelacion.ipynb`: Código que contiene el modelo estadistico base.
