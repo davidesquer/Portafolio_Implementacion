@@ -31,3 +31,4 @@ Este proyecto corresponde a la carpeta `EstadisticoBase`.
 
 - `autos_prepared.csv`: Conjunto de datos que contiene detalles de los autos y sus precios, ya preparado para el modelo estadistico.
 - `modelacion.ipynb`: Código que contiene el modelo estadistico base.
+- `modelacion.pdf`: Documento que contiene el reporte del modelo estadistico base.
