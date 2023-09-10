@@ -5,43 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="385ba2b6-00a6-4b33-a482-5739db07aa13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Final/ConFrameworks/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/ConFrameworks/insurance.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/ConFrameworks/model.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/EstadisticoBase/autos_prepared.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/EstadisticoBase/modelacion.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/EstadisticoBase/modelacion.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/SinFrameworks/.ipynb_checkpoints/ML_sin_frameworks-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/SinFrameworks/Iris.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/SinFrameworks/ML_sin_frameworks.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/SinFrameworks/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/SinFrameworks/funciones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/SinFrameworks/sin_framework.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retro/ConFrameworks/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retro/ConFrameworks/insurance.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retro/ConFrameworks/model.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retro/EstadisticoBase/autos_prepared.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retro/EstadisticoBase/modelacion.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retro/EstadisticoBase/modelacion.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retro/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retro/SinFrameworks/Iris.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retro/SinFrameworks/ML_sin_frameworks.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retro/SinFrameworks/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Portafolio_Implementacion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Portafolio_Implementacion.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConFrameworks/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConFrameworks/insurance.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConFrameworks/model.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstadisticoBase/autos_prepared.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstadisticoBase/modelacion.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EstadisticoBase/modelacion.pdf" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/ConFrameworks/.ipynb_checkpoints/model-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/ConFrameworks/machine_learning_con_uso_de_frameworks.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ConFrameworks/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Final/ConFrameworks/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/ConFrameworks/model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Final/ConFrameworks/model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Final/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/SinFrameworks/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Final/SinFrameworks/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SinFrameworks/Iris.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SinFrameworks/ML_sin_frameworks.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SinFrameworks/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +32,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2VBirafBPEEGyVZ71q9GnUZZWhE" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -73,17 +44,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Github\Portafolio_Implementacion\Final\ConFrameworks" />
       <recent name="E:\Github\Portafolio_Implementacion\Final\SinFrameworks" />
     </key>
   </component>

@@ -6,10 +6,6 @@ Este proyecto proporciona una implementación simple de regresión logística en
 
 La regresión logística es un método estadístico para modelar relaciones entre una variable dependiente binaria y una o más variables independientes. Este código es específico para la regresión logística binaria, lo que significa que se predice entre dos clases posibles.
 
-## Dataset
-
-Para este proyecto se utilizo el dataset de [Iris](https://www.kaggle.com/datasets/uciml/iris), que contiene 150 ejemplos de flores de tres especies diferentes: Iris Setosa, Iris Versicolour e Iris Virginica. Cada ejemplo tiene cuatro características: longitud del sépalo, ancho del sépalo, longitud del pétalo y ancho del pétalo.
-
 ## Estructura del proyecto
 
 Esta carpeta contiene los siguientes archivos:
