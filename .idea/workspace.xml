@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="385ba2b6-00a6-4b33-a482-5739db07aa13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Final/ConFrameworks/.ipynb_checkpoints/model-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final/ConFrameworks/machine_learning_con_uso_de_frameworks.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/ConFrameworks/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Final/ConFrameworks/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/ConFrameworks/model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Final/ConFrameworks/model.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Final/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/SinFrameworks/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Final/SinFrameworks/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="385ba2b6-00a6-4b33-a482-5739db07aa13" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
